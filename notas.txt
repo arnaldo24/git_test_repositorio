@@ -1,0 +1,58 @@
+QUEDE EN EL MINUTO 1:58:00
+
+https://github.com/arnaldo24/prueba1.git
+
+ Git
+⌨️ (00:00:00) Inicio
+⌨️ (00:01:22) Introducción al curso
+⌨️ (00:06:24) Introducción a Git y GitHub
+⌨️ (00:15:11) Conceptos básicos
+⌨️ (00:22:58) Instalar Git
+⌨️ (00:32:27) Comandos en Git Bash
+⌨️ (00:43:22) Configurar usuario y correo
+⌨️ (00:49:57) Crear un repositorio
+⌨️ (01:00:33) Las tres áreas de Git
+⌨️ (01:07:44) Git status
+⌨️ (01:16:47) Commits
+⌨️ (01:22:06) Crear un commit
+⌨️ (01:32:42) Asociar editor de texto
+⌨️ (01:35:35) Modificar un commit
+⌨️ (01:39:00) Deshacer el último commit
+⌨️ (01:45:20) Ramas en Git y la rama main
+⌨️ (01:49:43) Crear una rama en Git
+⌨️ (01:53:10) Cómo cambiar de rama
+⌨️ (01:57:08) Cambiar el nombre de una rama
+⌨️ (02:01:09) Eliminar una rama
+⌨️ (02:03:24) Crear un commit en una rama
+⌨️ (02:08:57) git log para ramas
+⌨️ (02:12:40) Fusionar ramas en Git
+⌨️ (02:15:22) Fusionar rama con main
+⌨️ (02:21:39) Conflictos al fusionar ramas
+
+🔹 GitHub
+⌨️ (02:28:48) Introducción a GitHub
+⌨️ (02:32:36) Crear cuenta y perfil de GitHub
+⌨️ (02:49:21) Crear un repositorio
+⌨️ (03:05:39) Ajustes del repositorio
+⌨️ (03:12:42) Cambiar el nombre de un repositorio
+⌨️ (03:15:41) Eliminar un repositorio
+⌨️ (03:20:04) Agregar un archivo a un repositorio
+⌨️ (03:24:25) Clonar un repositorio
+⌨️ (03:35:29) Crear un commit en un repositorio clonado
+⌨️ (03:41:55) Enviar cambios a GitHub (push)
+⌨️ (03:43:14) Ocultar tu correo en GitHub
+⌨️ (03:47:22) Intentar enviar cambios a GitHub
+⌨️ (03:49:58) Configurar HTTPS con un Token
+⌨️ (04:04:16) Incorporar cambios con git pull
+⌨️ (04:11:00) git pull vs. git fetch
+⌨️ (04:19:35) Enviar repositorio local a GitHub
+⌨️ (04:28:56) Bifurcar un repositorio
+⌨️ (04:36:19) Clonar un repositorio bifurcado
+⌨️ (04:39:08) Pull requests
+⌨️ (04:54:05) Pull request a partir de una rama
+⌨️ (05:02:50) Actualizar un repositorio bifurcado
+⌨️ (05:07:19) Issues en GitHub
+⌨️ (05:24:28) Crear ramas en GitHub
+⌨️ (05:28:51) Eliminar ramas
+
+⌨️ (05:32:31) Comentarios finales
